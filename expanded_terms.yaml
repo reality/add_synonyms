@@ -1,0 +1,850 @@
+http://purl.obolibrary.org/obo/HP_0002671: ['carcinoma, basal cell', bcc, basal cell skin carcinoma, epithelioma basal cell,
+  skin basal cell cancer, rodent ulcer, malignant basal cell neoplasm, basal cell neoplasm,
+  basal cell epithelioma, basal cell cancer, malignant basal cell tumor (morphologic abnormality),
+  malignant basal cell tumor, basal cell tumor (morphologic abnormality), basal cell neoplasm nos (morphologic abnormality),
+  basal cell tumor, epithelioma basal cell (disorder), basal cell neoplasm (morphologic abnormality),
+  '"basal cell neoplasm" exact []', '"malignant basal cell tumor" exact []', basaloma,
+  basal cell nevus, basalioma, bcc1, 基底細胞癌, 基底細胞がん, basal cell carcinoma]
+http://purl.obolibrary.org/obo/HP_0001263: [developmental defects]
+http://purl.obolibrary.org/obo/HP_0006746: [nf, von reklinghausen disease, neurofibromatoses, von recklinghausen's disease,
+  neuromatosis, recklinghausen's disease, multiple neuroma, multiple fibromatosis,
+  neurofibromatosis]
+http://purl.obolibrary.org/obo/HP_0009588: [vestibular schwannomas]
+http://purl.obolibrary.org/obo/HP_0100009: [cranial meningiomas]
+http://purl.obolibrary.org/obo/HP_0010302: [spinal tumours]
+http://purl.obolibrary.org/obo/HP_0000404: [hearing loss, hypoacuity auditory, hearing impaired, auditory disorder,
+  cochlear nerve damage, auditory hypoacuity, hearing reduced, auditory disorder (nos),
+  hearing decreased, disability, norrie's disease, cockayne's syndrome, complete hearing loss,
+  johanson-blizzard syndrome, jbs, 難聴, difficulty hearing, hearing impairment, impaired sensory perception of sound,
+  impaired perception of sound, hearing defect, congenital hearing loss, surdité,
+  '"complete hearing loss" exact []', hard of hearing, hardness of hearing, dysacousis,
+  deaf-mutism, impaired hearing, anacusia, deaf, 難聴疾患, no hearing, anacousia, ろう,
+  auditory disturbance, anacusis, deafmutism, 聴力喪失, deafness]
+http://purl.obolibrary.org/obo/HP_0000360: [ringing in ears, ear roaring, ear noises, ear buzzing, ear hissing, ear crackling,
+  ear ringing, 'ears, ringing in', sensation of noise, ringing in the ears, 耳鳴り, ringing in the ear,
+  susurrus aurium, tympanophony, tympanophonia, ear noise, buzzing in the ear, 耳鳴,
+  響鳴, tinnitus]
+http://purl.obolibrary.org/obo/HP_0001324: [decreased muscle strength, 筋力低下, incomplete paralysis, muscular weakness,
+  limb girdle weakness, 'muscular weakness, limb-girdle', weakness, muscle decreased strength,
+  'weakness, muscular', parésie, diminished muscle strength, muscle strength reduced,
+  faiblesse du muscle, faiblesse de muscle, faiblesse musculaire, 筋衰弱, 筋脱力, muscle weakness]
+http://purl.obolibrary.org/obo/HP_0003202: [muscle weakness or wasting]
+http://purl.obolibrary.org/obo/HP_0001250: [seizure, epileptic seizure, unprovoked seizure, convulsion, fit, attaques,
+  attaque, crise (neurologique), crises d'épilepsie, crises épileptiques, seizures]
+http://purl.obolibrary.org/obo/HP_0002321: [head spinning, head revolving around, spinning sensation, めまい, dizzy spell,
+  megrim, dizziness, めまい感, 眩暈, 眩暈感, 目まい, 目眩, 眩暈症, 目眩症, giddiness, vertigo]
+http://purl.obolibrary.org/obo/HP_0000618: [amaurosis, vision loss, hemeralopia, total vision loss, visual perception absent,
+  disability, norrie's disease, leber's congenital amaurosis, vision impairment, visual impairment,
+  失明, unqualified visual loss, loss of vision, ablepsia, 視力喪失, visual loss, caligo,
+  ablepsy, 視覚消失, loss of sight, 盲目, 全盲, 盲目状態, 盲, 視覚消失症, めくら, blindness]
+http://purl.obolibrary.org/obo/HP_0000957: [café au lait spots]
+http://purl.obolibrary.org/obo/HP_0008069: [skin tumours]
+http://purl.obolibrary.org/obo/HP_0000518: [opacity lenticular, lenticular opacity, lenticular opacities, 水晶体混濁,
+  lens opacity]
+http://purl.obolibrary.org/obo/HP_0003813: [inter-family differences]
+http://purl.obolibrary.org/obo/HP_0004467: [earpit]
+http://purl.obolibrary.org/obo/HP_0000410: [mixed hearing impairment, 'hearing loss, mixed', mixed conductive and sensorineural hearing loss,
+  mixed conductive and sensorineural deafness, 'hearing loss, mixed conductive-sensorineural',
+  mixed hearing loss]
+http://purl.obolibrary.org/obo/HP_0000365: [hearing impairment, hypoacuses, loss of hearing, 'loss, hearing', deafness,
+  hypoacusis, congenital deafness, hearing defect, impaired perception of sound, impaired sensory perception of sound,
+  hearing disorder, hearing disorders, hard of hearing, loss of hearing power, 聴力低下,
+  聴力障害, 聴力損失, dysacusis, dysacousia, auditory disorder, hearing loss]
+http://purl.obolibrary.org/obo/HP_0000405: [conduction]
+http://purl.obolibrary.org/obo/HP_0000381: [ankylosis of the stapes]
+http://purl.obolibrary.org/obo/HP_0004452: [disconnection of the ossicular chain]
+http://purl.obolibrary.org/obo/HP_0001614: [hypernasal voice, nasal voice, nasal speech, hypernasal speech]
+http://purl.obolibrary.org/obo/HP_0004322: [continued growth along the third centile]
+http://purl.obolibrary.org/obo/HP_0000006: [autosomal dominant, autosomique dominante, autosómica dominante, autosomaal dominant,
+  autosomal-dominant]
+http://purl.obolibrary.org/obo/HP_0003008: [multiple neoplasia]
+http://purl.obolibrary.org/obo/HP_0003745: [new mutation, 新規遺伝子変異, ｄｅ　ｎｏｖｏ突然変異, de novo突然変異, de novo mutation]
+http://purl.obolibrary.org/obo/HP_0004375: [nervous system tumours]
+http://purl.obolibrary.org/obo/HP_0100008: [schwannomas]
+http://purl.obolibrary.org/obo/HP_0002858: [meningiomas]
+http://purl.obolibrary.org/obo/HP_0002888: [ependymomas]
+http://purl.obolibrary.org/obo/HP_0009592: [astrocytomas]
+http://purl.obolibrary.org/obo/HP_0001067: [neurofibromatosis, neurofibromata, increased neurofibroma incidence,
+  increased fibroneuroma incidence, neurofibromas]
+http://purl.obolibrary.org/obo/HP_0009830: [neuropathy, peripheral nerve disorder, peripheral neuritis, peripheral nerve damage,
+  peripheral nerve disorders, peripheral; neuropathic, pns diseases, peripheral nervous system dis,
+  maladies du système nerveux périphérique, peripheral nervous system diseases, pns dis,
+  disorder of the peripheral nervous system, trouble nerveux périphérique, pns (peripheral nervous system) diseases,
+  peripheral nervous sys.dis.nos, neuropathie peripherique, mononévrite, peripheral nerve dis,
+  peripheral nervous system disorders, peripheral nerve disease, peripheral nervous system diseases and syndromes,
+  section a-4 disorders of the peripheral nervous system, affection du système nerveux périphérique,
+  peripheral nervous system disease or syndrome, pns disorder, pns peripheral nervous system dis,
+  affection nerveuse périphérique, peripheral nerve diseases, neuropathies périphériques,
+  neuropathy peripheral, 末梢性神経障害, 末梢性ニューロパシー, peripheral neuropathy]
+http://purl.obolibrary.org/obo/HP_0000478: [ophthalmological lesions]
+http://purl.obolibrary.org/obo/HP_0100014: [epiretinal membranes]
+http://purl.obolibrary.org/obo/HP_0009594: [retinal hamartomas]
+http://purl.obolibrary.org/obo/HP_0000951: [cutaneous lesions]
+http://purl.obolibrary.org/obo/HP_0009756: [popliteal pterygium]
+http://purl.obolibrary.org/obo/HP_0000924: ['skeletal, genital malformations']
+http://purl.obolibrary.org/obo/HP_0000078: [genital malformations]
+http://purl.obolibrary.org/obo/HP_0000202: [orofacial clefting]
+http://purl.obolibrary.org/obo/HP_0000196: [lip pit, lip pits]
+http://purl.obolibrary.org/obo/HP_0100333: [unilateral cheiloschisis, one sided cleft upper lip, unilateral cleft upper lip,
+  unilateral cleft lip]
+http://purl.obolibrary.org/obo/HP_0100334: [片側性唇顎口蓋裂, 片側性口唇口蓋裂, unilateral cleft lip and palate]
+http://purl.obolibrary.org/obo/HP_0009755: [eyelid synechiae, eyelids stuck together, adhesion of eyelids, 眼瞼癒着症,
+  ankyloblepharon]
+http://purl.obolibrary.org/obo/HP_0100269: [paramedian lip pits]
+http://purl.obolibrary.org/obo/HP_0000104: [renal aplasia]
+http://purl.obolibrary.org/obo/HP_0000122: [unilateral renal aplasia]
+http://purl.obolibrary.org/obo/HP_0008743: [coronal hypospadias]
+http://purl.obolibrary.org/obo/HP_0000047: [hypospadia, hypospadis, 尿道下裂, hypospadias]
+http://purl.obolibrary.org/obo/HP_0000792: [renal malformation]
+http://purl.obolibrary.org/obo/HP_0003812: [difference, variation, change, homozygocity, genotyping, heterozygocity,
+  genomic variation, test, strain, modification, genotype, hemizygous, homozygous,
+  present form, haplotype\/genotype, testing, form, heterozygous, 易変性, 可変性, 変動可能性,
+  可変, 変化性, 変動性, variability]
+http://purl.obolibrary.org/obo/HP_0001251: [balance difficulty, instability gait, ataxie, uncoordination, unsteady gait,
+  gait instability, unsteady walk, walk is wobbly or unsteady, dyssynergie, 'ataxie,
+    sans précision', coordination impairment, ataxique, ataxy, walk is wobbly or unsteady as symptom,
+  dyssynergia, trouble de la coordination, incoordination musculaire, '', dyscoordination,
+  incoordination, 運動失調症, 運動失調, 協調運動障害, 失調症, 失調, ataxia]
+http://purl.obolibrary.org/obo/HP_0000749: [episodes of paroxysmal laughter]
+http://purl.obolibrary.org/obo/HP_0000252: [microcrania, microencephaly, microcephalus, decreased circumference of cranium,
+  decreased size of skull, abnormally small skull, decreased size of head, abnormally small head,
+  small skull, decreased size of cranium, abnormally small cranium, reduced head circumference,
+  small head, small cranium, small calvarium, small head circumference, decreased head circumference,
+  reduced head size, decreased head size, reduced cranium size, decreased cranium size,
+  head decreased size, microcéphalie, microcefalia, mikrozephalie, 小頭症, microseme,
+  小頭, microcephalia, microcephaly]
+http://purl.obolibrary.org/obo/HP_0002051: [hypertrophy of lower jaw, hypertrophy of mandible, prominent lower jaw,
+  enlargement of mandible, lower jaw excess, mandibular macrognathia, mandibular hyperplasia,
+  prognathia, increased projection of mandble, mandible prognathism, mandibular excess,
+  large mandible, large lower jaw, enlarged mandible, hyperplasia of lower jaw, big lower jaw,
+  prominent chin, increased projection of lower jaw, macromandible, prominent mandible,
+  big mandible, increased size of lower jaw, relative mandibular prognathism, lower jaw hyperplasia,
+  mandibular prognathism, prognathism, mandibular prognathia, increased projection of mandible,
+  prominent jaw]
+http://purl.obolibrary.org/obo/HP_0000154: [broad mouth, large mouth, large oral aperture, macrostomia, wide mouth]
+http://purl.obolibrary.org/obo/HP_0000307: [pointed mention region, witch's chin, pointy chin, pointed chin]
+http://purl.obolibrary.org/obo/HP_0000182: [tongue thrusting]
+http://purl.obolibrary.org/obo/HP_0002066: [ataxic gait]
+http://purl.obolibrary.org/obo/HP_0002136: ['wide based, ataxic gait']
+http://purl.obolibrary.org/obo/HP_0002276: [jerky limb movements]
+http://purl.obolibrary.org/obo/HP_0100023: [flapping of the hands]
+http://purl.obolibrary.org/obo/HP_0010609: [acrochorda, skin tags]
+http://purl.obolibrary.org/obo/HP_0003593: [early age]
+http://purl.obolibrary.org/obo/HP_0200034: [pedunculated papules]
+http://purl.obolibrary.org/obo/HP_0002664: [tumors]
+http://purl.obolibrary.org/obo/HP_0000005: [familial cases]
+http://purl.obolibrary.org/obo/HP_0000707: [neurological signs]
+http://purl.obolibrary.org/obo/HP_0001999: [facial characteristics]
+http://purl.obolibrary.org/obo/HP_0001010: [hypopigmentation of skin]
+http://purl.obolibrary.org/obo/HP_0005599: [hypopigmentation of skin or hair]
+http://purl.obolibrary.org/obo/HP_0007513: [pigment dilution, hypopigmented skin, decreased skin pigmentation, patchy lightened skin,
+  mild localized pigmentation abnormalities, 低色素, 低色素症, hypopigmentation]
+http://purl.obolibrary.org/obo/HP_0008935: [hypotonic at birth]
+http://purl.obolibrary.org/obo/HP_0001548: [過成長, overgrowth]
+http://purl.obolibrary.org/obo/HP_0000724: [voracious appetite, polyphagia, over eating, hyperphagia]
+http://purl.obolibrary.org/obo/HP_0001513: [fat tissue increased, obese (finding), obese, adiposity, adiposis, overweight,
+  obésité, having too much body fat, 肥満, leanness, obésité exogène, adiposité, adipose,
+  'obésité, sans précision', obésité alimentaire, obésité simple, corpulence, corpulency,
+  肥満症, fatness, 肥胖病, obesity]
+http://purl.obolibrary.org/obo/HP_0003828: [variable severity, variable expressivity]
+http://purl.obolibrary.org/obo/HP_0010603: [keratocysts of the jaws]
+http://purl.obolibrary.org/obo/HP_0010610: [palmar and/or plantar pits]
+http://purl.obolibrary.org/obo/HP_0010612: [plantar pits]
+http://purl.obolibrary.org/obo/HP_0002514: [intracranial calcifications]
+http://purl.obolibrary.org/obo/HP_0005462: [calcification of falx cerebri]
+http://purl.obolibrary.org/obo/HP_0009797: [コレステリン腫, 真珠腫, pearly tumor, pearl tumor, chole, cholesteatoma]
+http://purl.obolibrary.org/obo/HP_0010827: [anomalies of the facial nerve]
+http://purl.obolibrary.org/obo/HP_0009794: ['branchial arch, otic, and renal malformations']
+http://purl.obolibrary.org/obo/HP_0000598: ['otic, and renal malformations']
+http://purl.obolibrary.org/obo/HP_0007787: [posterior subcapsular/capsular cataract]
+http://purl.obolibrary.org/obo/HP_0000523: [subcapsular/capsular cataract]
+http://purl.obolibrary.org/obo/HP_0100017: [水晶嚢白内障, capsular cataract]
+http://purl.obolibrary.org/obo/HP_0100019: [peripheral cortical lens opacities]
+http://purl.obolibrary.org/obo/HP_0008011: [peripheral cortical cataracts]
+http://purl.obolibrary.org/obo/HP_0007876: [cortical cataracts of early onset]
+http://purl.obolibrary.org/obo/HP_0100024: [happy disposition]
+http://purl.obolibrary.org/obo/HP_0000752: [hyperactive behaviour]
+http://purl.obolibrary.org/obo/HP_0000248: [broad head shape, broad skull shape, wide cranium shape, wide head shape,
+  wide skull shape, broad cranium shape, short and broad skull, shortened head, brachycephalus,
+  短頭, brachycephalia, brachycephalism, brachycephaly]
+http://purl.obolibrary.org/obo/HP_0000181: [wide mouth, broad mouth, large oral aperture, large mouth, 大口, 大口症, macrostomia]
+http://purl.obolibrary.org/obo/HP_0010808: [tongue protrusion]
+http://purl.obolibrary.org/obo/HP_0000303: [mandibular prognathism]
+http://purl.obolibrary.org/obo/HP_0000687: [wide-spaced teeth, multiple diastemata, generalized dental spacing, widely-spaced teeth,
+  generalized spacing of teeth, wide gaps between baby teeth, wide gaps between primary teeth,
+  widely spaced milk teeth, generalized spacing of primary teeth, widely spaced deciduous teeth,
+  widely spaced baby teeth, widely spaced primary teeth, widely spaced teeth]
+http://purl.obolibrary.org/obo/HP_0100022: [puppetlike movements]
+http://purl.obolibrary.org/obo/HP_0001249: [imbecility, mongolism, amentia, idiocy, retardation mental, development psychomotor impaired,
+  psychomotor development impaired, oligophrenia, syndrome down's, down's syndrome,
+  deficiency mental, mental deficiency, moronity, intellectual disability, intellectual disabilities,
+  'disability, intellectual', mental defic, 'deficiencies, mental', 'disabilities,
+    intellectual', 'retardation, psychosocial mental', 'deficiency, mental', defic mental,
+  'retardations, psychosocial mental', 'retardation, mental', mental deficiencies,
+  sjogren larsson syndrome, norrie's disease, laurence moon biedl syndrome, nonprogressive intellectual disability,
+  mental-retardation, low intelligence, 'retard mental, sans précision', oligophrénie,
+  retards mentaux, intellectual functioning disab, intellectual limitation, deficiency;mental,
+  arriérations mentales, retard mental, arrieration mentale, retardation mentale,
+  intellectual functioning disability, handicap intellectuel, 'retard mental, sévérité
+    non spécifiée', incapacité intellectuelle, mental retardation]
+http://purl.obolibrary.org/obo/HP_0001617: [absence of speech]
+http://purl.obolibrary.org/obo/HP_0003576: [diagnosis in infants]
+http://purl.obolibrary.org/obo/HP_0000708: [behavioral characteristics]
+http://purl.obolibrary.org/obo/HP_0002650: [scoliose, lordosis, curvature of spine, curved spine, abnormal curving of the spine,
+  脊柱側弯症, 脊柱側彎症, 側彎症, 側彎, 側弯, 脊椎側弯症, 脊椎側彎症, 側弯症, 脊柱側彎, 脊柱側弯, scoliosis]
+http://purl.obolibrary.org/obo/HP_0009373: [brachydactylie type c, bdc, brachydaktylie typ c, braquidactilia tipo c,
+  'brachidattilia, tipo c', brachydactyly type c]
+http://purl.obolibrary.org/obo/HP_0010109: [shortening of the big toes]
+http://purl.obolibrary.org/obo/HP_0000378: ['simple, cup-shaped ears', cup-shaped ears, cupped ear, cupped ears]
+http://purl.obolibrary.org/obo/HP_0000175: [cleft lip and palate, palate and lip cleft, palate cleft, lip and palate cleft,
+  uranostaphyloschisis (disorder), palatoschisis, cleft velum, uranostaphyloschisis,
+  cleft of palate, cleft hard and soft palate, cleft of hard and soft palate, cleft secondary palate,
+  cleft roof of mouth, 'palates, cleft', 'palate, cleft', paladar hendido, fente vélo-palatine,
+  fente palatine, gespleten verhemelte, gaumenspalte, uranoschisis, oral clefts, palatum fissum,
+  uraniscochasm, 口蓋裂, uranoschism, wolf throat, cleft palate]
+http://purl.obolibrary.org/obo/HP_0001770: [webbed 2nd-5th toes, 2-3 toe soft tissue syndactyly, webbed 2nd and 3rd toes,
+  partial or complete syndactyly 2nd-3rd toes, syndactyly of second and third toes,
+  complete cutaneous syndactyly of second and third toes, cutaneous syndactyly of second and third toes,
+  syndactyly (2-3) (feet), 2-3 toes syndactyly, 2-3 syndactyly of feet, webbed 3rd-5th toes,
+  webbed first through fourth toes, webbed first and second toes, syndactyly of feet,
+  syndactyly of toes, webbed toes, fused toes, syndactyly (feet), foot syndactyly,
+  webbed 1st-3rd toes, toe syndactyly]
+http://purl.obolibrary.org/obo/HP_0009577: ['shortening of the middle phalanges of the index, middle, and little
+    finger']
+http://purl.obolibrary.org/obo/HP_0010235: [supernumerary phalanges, supernumerary phalanx, hyperphalangie, phalange surnuméraire,
+  hiperfalangia, falanges supernumerarias, falange supernumeraria, überzählige phalangen,
+  hyperfalangie, overtollige phalanges, overtollige phalanx, hyperphalangy]
+http://purl.obolibrary.org/obo/HP_0009495: ['hyperphalangy, usually of the index and middle finger']
+http://purl.obolibrary.org/obo/HP_0009464: [ulnar deviation of the second and third digits]
+http://purl.obolibrary.org/obo/HP_0010047: [shortening of the metacarpals iv and v]
+http://purl.obolibrary.org/obo/HP_0004150: [abnormal segmentation of the index and middle fingers]
+http://purl.obolibrary.org/obo/HP_0003822: [high degree of variable expression in members of the same family]
+http://purl.obolibrary.org/obo/HP_0100001: [malignant mesothelial neoplasm, malignant tumor of the mesothelium, malignant neoplasm of the mesothelium,
+  malignant neoplasm of mesothelium, malignant tumor of mesothelium, malignant mesothelial tumor,
+  'mesothelioma, malignant', 'sarcoma, mesothelial', mesothelial sarcoma, mesothelioma,
+  malignant mesothelioma]
+http://purl.obolibrary.org/obo/HP_0006741: [susceptible to mesothelioma]
+http://purl.obolibrary.org/obo/HP_0001054: [basal cell nevus]
+http://purl.obolibrary.org/obo/HP_0003829: [nonpenetrance]
+http://purl.obolibrary.org/obo/HP_0003578: [child life stage, enfance, infancia, kindheit, kindertijd, 小児期, 幼少期,
+  幼児期, 児童期, childhood]
+http://purl.obolibrary.org/obo/HP_0100006: [brain tumour]
+http://purl.obolibrary.org/obo/HP_0002885: ['infratentorial primitive neuroectodermal tumor ', localized primitive neuroectodermal tumor,
+  cns pnet, cpnet, infratentorial primitive neuroectodermal tumor, cerebellum embryonal neoplasm,
+  medullomyoblastomas, medullomyoblastoma, 'arachnoidal cerebellar sarcoma, circumscribed',
+  'sarcoma, cerebellar, circumscribed arachnoidal', mdb, mben, meduloblastoma, medulloblastom,
+  médulloblastome, tumor neuro-ectodérmico primitivo, 'tumor, neuroektodermaler primärer',
+  medulloblastoom, primitive neuroendocrine tumour, primitive neuroendocrine tumor,
+  髄芽細胞腫, 髄芽腫, medulloblastoma]
+http://purl.obolibrary.org/obo/HP_0005684: [distal arthrogryposes]
+http://purl.obolibrary.org/obo/HP_0005188: [multiple congenital contractures]
+http://purl.obolibrary.org/obo/HP_0003121: [contractures of the distal limbs]
+http://purl.obolibrary.org/obo/HP_0000377: [abnormal pinnae, outer ear abnormality, ear anomalies, malformed pinnae,
+  abnormality of the auricle, abnormality of the outer ear, abnormality of the external ear,
+  phenotypic abnormality of external ear, phenotypic abnormality of external ear  and (part of some head),
+  external ear malformations]
+http://purl.obolibrary.org/obo/HP_0000077: [renal anomalies]
+http://purl.obolibrary.org/obo/HP_0009795: [branchial fistulae]
+http://purl.obolibrary.org/obo/HP_0001156: [short digits, short fingers, short toes, short digit, short fingers or toes,
+  brachydactyly]
+http://purl.obolibrary.org/obo/HP_0009881: [absence of some middle or distal phalanges]
+http://purl.obolibrary.org/obo/HP_0001798: [aplastic or hypoplastic nails]
+http://purl.obolibrary.org/obo/HP_0001792: [hypoplastic nails]
+http://purl.obolibrary.org/obo/HP_0100264: [fusion of phalanges in a digit, symphalangism]
+http://purl.obolibrary.org/obo/HP_0008090: [ankylois of proximal interphalangeal joints]
+http://purl.obolibrary.org/obo/HP_0008368: [synostosis of some carpal and tarsal bones]
+http://purl.obolibrary.org/obo/HP_0001363: [premature closure of cranial sutures, saethre chotzen syndrome, synostosis (cranial),
+  craniosynostose, craneosinostosis, kraniosynostose, craniosyostosis, premature fontanel closure,
+  cranial suture synostosis, early fusion of cranial sutures, premature suture closure,
+  deformity of the skull, craniosynostoses, premature closure of fontanelles, early closure of the cranial sutures,
+  early closure of the fontanelles, premature closure of the bregma sutures, obliterated fontanelles,
+  early closure of the bregma sutures, premature closure of the cranial sutures, premature cranial suture closure,
+  craniostosis, premature craniofacial suture closure, early fusion of craniofacial sutures,
+  premature fontanelle closure, early fontanelle closure, obliterated fontanels, early closure of the soft spots,
+  craniosynostosis]
+http://purl.obolibrary.org/obo/HP_0001385: [dysplastic hip joints]
+http://purl.obolibrary.org/obo/HP_0002187: ['mental retardation, severe', 'intellectual disability, severe', 重度精神発達遅滞,
+  severe imbecility, severe mental retardation]
+http://purl.obolibrary.org/obo/HP_0002311: [equilibrium disorder of (nos), dysequilibrium, asynergia, astasia, clumsiness,
+  writing impaired, disorder equilibrium, station abnormal, instability station, adiadokokinesis,
+  fumbling, coordination abnormal, dysmetria, coordination impaired, dysdiadochokinesis,
+  difficulties in coordination, uncoordinated, dyscoordination, perte de la coordination,
+  coordination problem, 'coordination disorder,', coordination disorder (dyspraxia),
+  anomalie de la coordination, lack of coordination, coordination anormale, manque de coordination,
+  non coordonné, co-ordination disorder, troubles de la coordination, coordination disorder,
+  coordination disease or syndrome, abnormal coordination, incoordination]
+http://purl.obolibrary.org/obo/HP_0002591: [voracious appetite]
+http://purl.obolibrary.org/obo/HP_0001290: [flaccidity muscle, weakness voluntary muscle, muscle tone flaccid, hypomyotonia,
+  hypotonus, hypotonicity, poor muscle tone, low or weak muscle tone, hypotonia]
+http://purl.obolibrary.org/obo/HP_0002004: [facial appearance]
+http://purl.obolibrary.org/obo/HP_0000316: [excessive orbital separation, widely spaced eyes, increased distance between eye sockets,
+  increased distance between eyes, increased interpupillary distance, wide-set eyes,
+  widened interpupillary distance, increased distance between the eyes, wide set eyes,
+  increased distance between the eye sockets, increased interorbital distance, increased inner canthal distance,
+  wider inner canthal distance, euryopia, 眼間隔離症, 隔離症, hypertelorism]
+http://purl.obolibrary.org/obo/HP_0000407: [perceptive hearing loss or deafness, high frequency hearing loss, sensory hearing loss,
+  'hearing loss, central', high frequency deafness, high-frequency hearing loss, 'perceptive
+    deafness [diagnos]', perceptive hearing loss, central hearing loss, sensorineural deafness,
+  x-linked mixed deafness with perilymphatic gusher, nance deafness, x-linked mixed conductive and neurosensory hearing loss,
+  x-linked mixed conductive and neurosensory deafness, dfnx2, 'deafness mixed with
+    perilymphatic gusher, x-linked', x-linked deafness type 2, conductive deafness with stapes fixation,
+  perceptive deafness, x-linked mixed conductive and sensorineural deafness, x-linked stapes gusher syndrome,
+  'deafness, x-linked type 2', 'hearing loss, sensorineural', sensorineural hearing impairment,
+  deafness neurosensory, sensori-neural deafness, 感音難聴, neuro sensory deafness, sensori-neural hearing loss,
+  perception deafness, snhl, sensorineural hearing loss]
+http://purl.obolibrary.org/obo/HP_0002167: [speech impediment]
+http://purl.obolibrary.org/obo/HP_0002700: [enlarged foramen magnum]
+http://purl.obolibrary.org/obo/HP_0002363: [brainstem abnormality]
+http://purl.obolibrary.org/obo/HP_0009589: [bilateral vestibular schwannomas]
+http://purl.obolibrary.org/obo/HP_0001425: [heterogeneous, 非均一性, 不均質性, 非一様性, 不均等性, 非均質性, 異質性, 不均一性, heterogeneity]
+http://purl.obolibrary.org/obo/HP_0009371: [brachydactylie type a1, brachydactylie type farabee, braquidactilia tipo a1,
+  'brachydactyly, farabee type', brachydaktylie typ a1, brachydaktylie typ farabee,
+  farabee type brachydactyly, bda1, 'brachydactylie, farabee-type', brachydactyly farabee type,
+  'brachidattilia, tipo farabee', 'braquidactilia, tipo farabee', 'brachidattilia,
+    tipo a1', brachydactyly type a1]
+http://purl.obolibrary.org/obo/HP_0002813: [limb malformation]
+http://purl.obolibrary.org/obo/HP_0010240: [shortening of the middle phalanges in all digits]
+http://purl.obolibrary.org/obo/HP_0007087: [jerky movements]
+http://purl.obolibrary.org/obo/HP_0002133: [grand mal status, repeated seizures without recovery between them, 癲癇重積状態,
+  てんかん重積状態, prolonged seizure activity, てんかん重積症, てんかん発作重積状態, けいれん重積, status epilepticus]
+http://purl.obolibrary.org/obo/HP_0001336: [myoclonic]
+http://purl.obolibrary.org/obo/HP_0002123: [estado de mal mioclónico, myoclonic status epilepticus]
+http://purl.obolibrary.org/obo/HP_0007359: [focal seizures, localized seizures, partial seizure, focal-onset seizure,
+  focal-onset seizures, seizure affecting one half of brain, focal seizure, partial seizures]
+http://purl.obolibrary.org/obo/HP_0000496: [eye deviation]
+http://purl.obolibrary.org/obo/HP_0002013: [emesis, vomit, retching, hyperemesis, gagging, throwing up, 嘔吐, vomissement,
+  vomi, regurgitation; gastric contents, being sick, おう吐, vomiting]
+http://purl.obolibrary.org/obo/HP_0001275: [epilepsies]
+http://purl.obolibrary.org/obo/HP_0002353: [electroencephalographic patterns]
+http://purl.obolibrary.org/obo/HP_0007030: ['nonprogressive, age-dependent myoclonic encephalopathy']
+http://purl.obolibrary.org/obo/HP_0001298: [encephalopathy]
+http://purl.obolibrary.org/obo/HP_0001509: [height less than 3rd percentile, decreased body height, small stature,
+  stature below 3rd percentile, reduced body height, decreased height, reduced height,
+  小人症, 小人, dwarfism, 矮小発育症, こびと, microsomia, nanocormia, dwarf, short statue, nanism,
+  nanosomia, dwarfism (disease), 低身長症, 低身長, short stature]
+http://purl.obolibrary.org/obo/HP_0000204: [lip cleft, harelip, hare lip, cheiloschisis, labium leporinum, harelips,
+  'lip, cleft', 'lips, cleft', cleft of the lip, cheiloschisis of upper lip, cleft upper lip,
+  labium fissum, fissured labium, 唇裂, 三つ口, cleft lip]
+http://purl.obolibrary.org/obo/HP_0001159: [web bad fingers, fingers webbed, 'soft tissue union, with or without
+    osseous union, between adjacent digits', chromosome 2q35 duplication syndrome,
+  syndactylie non syndromique, sindactilia no sindrómica, niet-syndromale syndactylie,
+  'syndaktylie, nicht-syndromale', symphalangism, symphalangy, webbing of digits,
+  fused toes, fused fingers, webbed fingers or toes, sindactilia, syndactylie, syndaktylie,
+  sindattilia, syndactylus, 合指, symphalangism syndrome, 合指症, 合し, syndactyly]
+http://purl.obolibrary.org/obo/HP_0001597: [nail anomalies]
+http://purl.obolibrary.org/obo/HP_0001420: [isolated case]
+http://purl.obolibrary.org/obo/HP_0000376: [mondini type cochlear malformation]
+http://purl.obolibrary.org/obo/HP_0008554: [cochlear malformation]
+http://purl.obolibrary.org/obo/HP_0000110: [renal adysplasia, dysplastic kidneys, renotubular dysgenesis, abnormal renal morphology,
+  structural renal anomalies, structural anomalies of the renal tract, kidney structure issue,
+  kidney malformation, structural kidney abnormalities, abnormal kidney morphology,
+  renal malformation, abnormally shaped kidney, kidney dysplasia, dysplasie rénale,
+  nierendysplasie, renale dysplasie, displasia renal, displasia renale, 'displasia
+    renal, quística', 腎異形成, dysplastic kidney, congenital renal dysgenesis, renal dysgenesis,
+  renal dysplasia]
+http://purl.obolibrary.org/obo/HP_0004742: [anomalies of the collecting system]
+http://purl.obolibrary.org/obo/HP_0007993: [aplasia of the lacrimal ducts]
+http://purl.obolibrary.org/obo/HP_0000113: [bilateral polycystic kidneys]
+http://purl.obolibrary.org/obo/HP_0002817: [malformations restricted to the upper limbs]
+http://purl.obolibrary.org/obo/HP_0009843: [shortening of the middle phalanx of all digits]
+http://purl.obolibrary.org/obo/HP_0001204: [fusion of the middle and terminal phalanges]
+http://purl.obolibrary.org/obo/HP_0010846: [persistent rhythmic 4-6/s activities]
+http://purl.obolibrary.org/obo/HP_0002329: [眠気, sleepiness, somnolence, drowsy, sleepy, excessive daytime somnolence,
+  more than typical sleepiness during day, assoupi, envie excessive de dormir, état d'assoupissement,
+  envie de dormir, endormissement, assoupissement, somnolent, drowsiness]
+http://purl.obolibrary.org/obo/HP_0000748: [不相応な笑い, inappropriate laughter]
+http://purl.obolibrary.org/obo/HP_0000364: [congenital hearing loss, congenital deafness, deafness, hearing defect,
+  hearing loss, impaired perception of sound, impaired sensory perception of sound,
+  complete hearing loss, surdité partielle, altération auditive, hypoacusis, perte auditive,
+  reduction de l'ouie, diminution auditive, difficulty hearing, pertes auditives,
+  alteration de l'ouie, baisse de l'acuité auditive, 'perte de l’audition, sans précision',
+  surdité, hearing; defect, audition réduite, malentendant, déficit auditif, hl  hearing loss,
+  decreased hearing, hard of hearing, loss of hearing, hypoacousie, audition diminuée,
+  hypo-acousie, dur d'oreille, diminution de l'audition, diminution de l'ouie, impaired hearing,
+  hearing reduced, déficience auditive, hoh  hard of hearing, perte d'audition, 'impairment,
+    hearing', hearing impaired, hearing impairment]
+http://purl.obolibrary.org/obo/HP_0000153: ['oral, and craniofacial anomalies']
+http://purl.obolibrary.org/obo/HP_0002260: [craniofacial anomalies]
+http://purl.obolibrary.org/obo/HP_0000356: [infra-auricular skin defects]
+http://purl.obolibrary.org/obo/HP_0000383: [supra-auricular defects]
+http://purl.obolibrary.org/obo/HP_0002564: [congenital heart and central nervous system defects]
+http://purl.obolibrary.org/obo/HP_0007319: [central nervous system defects]
+http://purl.obolibrary.org/obo/HP_0002116: [speech problems]
+http://purl.obolibrary.org/obo/HP_0000209: [jaw lesions]
+http://purl.obolibrary.org/obo/HP_0000892: [cleft ribs, split ribs, rib fusion, bifid ribs]
+http://purl.obolibrary.org/obo/HP_0010618: [ovarian fibromas]
+http://purl.obolibrary.org/obo/HP_0001508: [undergrowth, weight faltering, faltering weight, poor weight gain, postnatal growth retardation,
+  postnatal growth deceleration, postnatal growth failure, postnatal growth deficiency,
+  growth delay as children, growth retardation as children, growth decreased rate,
+  ateliosis, retarded growth after birth, atelia, reduced growth rate, decreased growth rate,
+  stunted growth, ftt, growth disorder, growth disorders, growth insufficiency, developmental disturbance,
+  defective development, failure of development, underdevelopment, dysgenesis, disturbance of growth,
+  成長不全, hypogenesis, failure to thrive]
+http://purl.obolibrary.org/obo/HP_0001622: [preterm infants]
+http://purl.obolibrary.org/obo/HP_0000772: [abnormal ribs]
+http://purl.obolibrary.org/obo/HP_0002060: ['"sotos syndrome" exact []', sotos syndrome, sotos' syndrome, cerebral gigantism]
+http://purl.obolibrary.org/obo/HP_0000238: [fetal ventriculomegaly, hydrocephaly, too much cerebrospinal fluid in the brain,
+  hydroencephaly, hydrencephaly, hydrencephalus, water on the brain, 'hydrocéphalie,
+    sans précision', hydrocéphalie, hydrocephalia, 水頭症, hydrocephalus]
+http://purl.obolibrary.org/obo/HP_0002118: [ventricular malformation]
+http://purl.obolibrary.org/obo/HP_0001317: [syndrome cerebellar, cerebellar syndrome]
+http://purl.obolibrary.org/obo/HP_0006860: [oculomotor disturbances]
+http://purl.obolibrary.org/obo/HP_0000759: [peripheral nervous disorders]
+http://purl.obolibrary.org/obo/HP_0004363: [カルシウム代謝, calcium metabolism]
+http://purl.obolibrary.org/obo/HP_0003680: [non-progressive, stationary, does not worsen, nonprogressive]
+http://purl.obolibrary.org/obo/HP_0000464: [skin defects in the neck]
+http://purl.obolibrary.org/obo/HP_0010783: [erythematous wrinkled skin]
+http://purl.obolibrary.org/obo/HP_0009796: ['cervical pits, cysts']
+http://purl.obolibrary.org/obo/HP_0007678: [narrowing of the tear duct, lacrimal duct stenosis, delayed canalization of nasolacrimal duct,
+  nasolacrimal duct stenosis]
+http://purl.obolibrary.org/obo/HP_0010557: [overlapping fingers at birth]
+http://purl.obolibrary.org/obo/HP_0006143: [abnormal digital flexion creases]
+http://purl.obolibrary.org/obo/HP_0001760: [足の形態異常, foot deformity, foot deformities]
+http://purl.obolibrary.org/obo/HP_0001762: [clubfeet, clubfoot, equinovarus, pes equinovarus, club feet, club foot,
+  pes equinus, talipes varus, talipes, talipes equino varus, clubbed feet, talipes equinovarus]
+http://purl.obolibrary.org/obo/HP_0001838: [rocker bottom feet, rockerbottom feet, rocker-bottom feet, rocker bottom foot,
+  vertical talus]
+http://purl.obolibrary.org/obo/HP_0009591: [8th cranial nerve]
+http://purl.obolibrary.org/obo/HP_0001291: [lesions of further cranial nerves]
+http://purl.obolibrary.org/obo/HP_0002516: [increasing intracranial pressure]
+http://purl.obolibrary.org/obo/HP_0009735: [spinal neurofibromas]
+http://purl.obolibrary.org/obo/HP_0009737: [iris hamartomas, lisch nodules]
+http://purl.obolibrary.org/obo/HP_0001466: [microdeletion/duplication syndrome, 隣接遺伝子症候群, adjacent gene syndrome,
+  contiguous gene syndrome]
+http://purl.obolibrary.org/obo/HP_0002141: [movement and balance disorder]
+http://purl.obolibrary.org/obo/HP_0001022: [hps (hermansky pudlak syndrome), hermansky pudlak syndrome, achromasia,
+  generalized hypopigmentation, pale pigmentation, fair skin, albinism]
+http://purl.obolibrary.org/obo/HP_0000639: ['involuntary, rapid, rhythmic eye movements', rapid involuntary rhythmic eye movement,
+  nistagmo, 眼球振とう, 眼振, nystragmus, 眼球振盪, nystagmus]
+http://purl.obolibrary.org/obo/HP_0000486: [heterotropia, squint, squint eyes, cross-eyed, esodeviation, esotropia,
+  inward turning cross eyed, cross eyed, phorias, 'heterophoria,', disord binoc eye movem,
+  disorder of binocular eye movements, hétérotropie, 'strabisme, sans précision',
+  defaut convergence axes visuels, anomalie des mouvements binoculaires, ocular dissociation,
+  hétérophorie, anomalie des mouvements conjugués des yeux, squinting, phories, crossed eye,
+  heterophoria, strabisme latent, strabisme, hetrotropy, tropia, 斜視, strabism, やぶにらみ,
+  strabismus]
+http://purl.obolibrary.org/obo/HP_0007746: [reduced retinal pigment]
+http://purl.obolibrary.org/obo/HP_0004378: ['anal, thumb, and ear anomalies']
+http://purl.obolibrary.org/obo/HP_0001172: ['thumb, and ear anomalies']
+http://purl.obolibrary.org/obo/HP_0000118: [organ system abnormalities]
+http://purl.obolibrary.org/obo/HP_0000271: [craniofacial findings]
+http://purl.obolibrary.org/obo/HP_0002023: [anal atresia, congenital atresia of anus, congenital or infantile occlusion of anus,
+  anus imperforate, imperforate anus]
+http://purl.obolibrary.org/obo/HP_0001140: [benign eye tumor, epibulbar dermoid, limbal dermoid, epibulbar dermoids]
+http://purl.obolibrary.org/obo/HP_0000384: [preauricular tags]
+http://purl.obolibrary.org/obo/HP_0000210: [small mandible, hypoplastic mandible, severe hypoplasia of mandible,
+  hypoplasia of mandible, hypoplastic mandible condyle, robin mandible, mandibular hypoplasia,
+  small jaw, micrognathism, congenital micrognathism, small lower jaw, hypoplasia of lower jaw,
+  decreased size of mandible, underdevelopment of mandible, lower jaw hypoplasia,
+  deficiency of lower jaw, micromandible, hypotrophic mandible, lower jaw retrusion,
+  little mandible, lower jaw retrognathia, lower jaw deficiency, underdevelopment of lower jaw,
+  hypotrophic lower jaw, mandibular retrognathia, decreased size of lower jaw, decreased projection of lower jaw,
+  mandibular deficiency, decreased projection of mandible, little lower jaw, mandibular retrusion,
+  mandibular arch skeleton decreased size, brachygnathism, brachygnathia, '''decreased
+    jaw size''', micrognathia]
+http://purl.obolibrary.org/obo/HP_0002818: ['radial, and anal findings']
+http://purl.obolibrary.org/obo/HP_0002744: [bilateral cleft lip and cleft palate, right and left cleft lip and palate,
+  bilateral cleft lip and palate]
+http://purl.obolibrary.org/obo/HP_0007633: [abnormally small eyeball on both sides, decreased size of globes of eyes,
+  bilateral nanophthalmos, decreased size of eyeballs, 'microphthalmia, bilateral',
+  small eyes, 'microphthalmos, bilateral', bilateral microphthalmos]
+http://purl.obolibrary.org/obo/HP_0007995: [ocular colobomata]
+http://purl.obolibrary.org/obo/HP_0004741: [dysplastic left kidney]
+http://purl.obolibrary.org/obo/HP_0004675: [milder facial anomalies]
+http://purl.obolibrary.org/obo/HP_0000288: [abnormality of the infranasal depression, abnormality of the paralabial region,
+  abnormal philtrum, phenotypic abnormality of philtrum, abnormality of the philtrum]
+http://purl.obolibrary.org/obo/HP_0000579: [tear-duct blockage, nasolacrymal duct occlusion, nasolacrymal duct obstruction,
+  nasolacrimal duct occlusion, lacrimal duct obstruction, blocked tear duct, obstructio ductus nasolacrimalis,
+  鼻涙管閉塞, 鼻涙管閉塞症, nasolacrimal duct obstruction]
+http://purl.obolibrary.org/obo/HP_0007669: [bilateral congenital nasolacrimal duct obstruction]
+http://purl.obolibrary.org/obo/HP_0000322: [decreased vertical dimension of philtrum, decreased height of philtrum,
+  decreased length of philtrum, vertical hypoplasia of philtrum, decreased vertical dimension of the philtrum,
+  reduced philtral length, reduced philtral height, decreased philtrum length, decreased philtrum height,
+  reduced philtrum length, reduced philtrum height, shortened philtrum, decreased philtral length,
+  decreased philtral height, short philtrum]
+http://purl.obolibrary.org/obo/HP_0006751: [paraspinal neurinoma]
+http://purl.obolibrary.org/obo/HP_0002803: [congenital joint contractures, congenital contracture, congenital contractures]
+http://purl.obolibrary.org/obo/HP_0001511: [intrauterine and postnatal growth retardation]
+http://purl.obolibrary.org/obo/HP_0001510: [retard de croissance, 発育遅延, retarded growth, growth suppression, 成長遅延,
+  developmental retardation, developmental delay, growth retarded, arrested development,
+  developmental arrest, growth retardation]
+http://purl.obolibrary.org/obo/HP_0008865: [decreased growth rate, stunted growth, reduced growth rate, atelia, ateliosis,
+  retarded growth after birth, failure to thrive, weight faltering, postnatal failure to thrive,
+  faltering weight, undergrowth, postnatal growth deceleration, postnatal growth failure,
+  postnatal growth deficiency, growth delay as children, growth retardation as children,
+  growth decreased rate, postnatal growth retardation]
+http://purl.obolibrary.org/obo/HP_0002216: [progeroid appearance, 'alterung, vorzeitige', vroegtijdige veroudering,
+  vieillissement prématuré, envejecimiento prematuro, progeria, hutchinson gilford syndrome,
+  premature ageing, aging premature, invecchiamento precoce, envelhecimento prematuro,
+  premature aging]
+http://purl.obolibrary.org/obo/HP_0010848: [2-3 cps spike and wave activity in the eeg]
+http://purl.obolibrary.org/obo/HP_0000007: [autosomal-rezessiv, autosomaal recessief, autosomique récessive, autosómica recesiva,
+  autosomal recessive]
+http://purl.obolibrary.org/obo/HP_0002652: [abnormal skeletal development, skeletal dysplasia]
+http://purl.obolibrary.org/obo/HP_0006152: ['symphalangism, cushing type', 'symphalangismus, proximaler', cushing-symphalangie,
+  proximaal symfalangisme, 'symfalangisme, cushing-type', 'symphalangism, proximal,
+    type 1a', cushing's symphalangism, symphalangie proximale, symphalangie type cushing,
+  sinfalangismo tipo cushing, sinfalangismo familiar proximal, 'sinfalangismo, tipo
+    cushing', symphalangisme type cushing, sinfalangismo familiare prossimale, sinfalangismo prossimale,
+  sinfalangismo proximal, symphalangisme proximal, proximal symphalangism]
+http://purl.obolibrary.org/obo/HP_0002008: [facial palsy, bell's palsy, facial nerve paralysis, vii th cranial nerve palsy,
+  seventh cranial nerve palsy, 'facial palsy, unilateral or bilateral', cranial nerve vii palsy,
+  facial paralysis, facial paresis, facial muscle paralysis, paralysis of the muscles of the face,
+  paralysis of facial nerve, 'nerve paralysis, facial', palsy of facial nerve, bell palsy,
+  bell's (facial) palsy, facial droop, facial nerve paresis, 顔面神経麻ひ, 顔面麻痺, facioplegia,
+  顔面神経麻痺, facial nerve palsy]
+http://purl.obolibrary.org/obo/HP_0001662: [pulse rate decrease, bradyarrhythmia, 徐脈, slow heart beat, heart rate slow,
+  decreased heart rate, 'heart rate, decreased', brachycardia, slow heartbeats, bradyrhythmia,
+  reduced heart rate, infrequent pulse, 徐拍, 徐脈性不整脈, bradycardia]
+http://purl.obolibrary.org/obo/HP_0002615: ['blood pressure, low', low blood pressure, vascular hypotensive disorder,
+  'pressure, low blood', decreased blood pressure, 'blood pressure, decreased', arterial blood pressure decreased,
+  blood pressure drop arterial, pressure arterial decreased, 低血圧, chute de tension arterielle,
+  symptome de choc, diminution tension arterielle, baisse de la tension arterielle,
+  decreased systemic arterial blood pressure, reduced blood pressure, chute de la pression artérielle,
+  pression artérielle diminuée, pa abaissée, pa basse, blood pressure decreased, chute de pa,
+  hypotensive diseases, pression artérielle basse, baisse de la pression artérielle,
+  low bp, hypopiesis, fall in blood pressure, drop of blood pressure, pression artérielle sanguine diminuée,
+  chute de pression artérielle, bp fell, ta basse, tension basse, tension artérielle basse,
+  血圧下降, hypotonia, 血圧降下, 低血圧症, hypotony, hypotensive, blood pressure low, hypotension]
+http://purl.obolibrary.org/obo/HP_0001269: [congenital hemiparesis]
+http://purl.obolibrary.org/obo/HP_0005290: [absent internal carotid artery]
+http://purl.obolibrary.org/obo/HP_0008419: [premature vertebral end-plate disease]
+http://purl.obolibrary.org/obo/HP_0003304: [脊椎分離症, spondylolysis]
+http://purl.obolibrary.org/obo/HP_0003302: [spondylolithesis, slipped backbone, displacement of one backbone compared to another,
+  すべり症, 脊椎すべり症, spondylolisthesis]
+http://purl.obolibrary.org/obo/HP_0009121: [axial skeletal involvement]
+http://purl.obolibrary.org/obo/HP_0000370: ['defects of the outer, middle and inner ear']
+http://purl.obolibrary.org/obo/HP_0007925: [narrowing of the tear duct, delayed canalization of nasolacrimal duct,
+  lacrimal duct stenosis]
+http://purl.obolibrary.org/obo/HP_0012759: [neuro-developmental disorder]
+http://purl.obolibrary.org/obo/HP_0001270: [motor dysfunction]
+http://purl.obolibrary.org/obo/HP_0001328: [learning deficit]
+http://purl.obolibrary.org/obo/HP_0002275: [loss of motor coordination]
+http://purl.obolibrary.org/obo/HP_0002360: [sommeil troublé, désordre du comportement du sommeil, dérèglement du sommeil,
+  problems with sleeping, sleep disturbed, trouble du comportement du sommeil, 'sleep
+    disturbance,if', disturbance in sleep behavior, sleep disturbance, troubles du sommeil (incl sous-types),
+  difficulty sleeping, sleep dysfunction, phenotypic abnormality of sleep, trouble sleeping,
+  sleep disturbances]
+http://purl.obolibrary.org/obo/HP_0009593: [schwannomas in the skin]
+http://purl.obolibrary.org/obo/HP_0001344: [absence of vocalization]
+http://purl.obolibrary.org/obo/HP_0002015: [swallowing disorders]
+http://purl.obolibrary.org/obo/HP_0000925: [spine and rib anomalies]
+http://purl.obolibrary.org/obo/HP_0000280: [face grosseira, rasgos faciales toscos, grobe gesichtzüge, faccia grossolana,
+  face grossière, coarse face]
+http://purl.obolibrary.org/obo/HP_0004482: ['macrocephaly, relative', relatively large head, disproportionately large head,
+  relative macrocephaly]
+http://purl.obolibrary.org/obo/HP_0002007: [prominent central forehead, frontal protruberance, skull bossing, prominent forehead,
+  pronounced forehead, prominence of frontal region, protruding forehead, cranial bossing,
+  frontal protuberance, prominence of the frontal region, protuberant forehead, frontal bossing]
+http://purl.obolibrary.org/obo/HP_0000766: [pectus deformity]
+http://purl.obolibrary.org/obo/HP_0000912: [high scapula, escápula alta, schulterblatthochstand, sobreelevación del omóplato,
+  surélévation de l'omoplate, sprengel-phänotyp, sopraelevazione della scapola, anomalie de sprengel,
+  anomalía de sprengel, anomalia di sprengel, deformidade de sprengel, sprengel-deformität,
+  sprengelmisvorming, hoog schouderblad, 'congenital, upward displacement of the scapula',
+  high schoulder blade, congenital elevation of scapula, sprengel anomaly, high shoulder blade,
+  sprengel deformity]
+http://purl.obolibrary.org/obo/HP_0005449: [bridged sella]
+http://purl.obolibrary.org/obo/HP_0002937: [hemivertebra, congenital hemivertebra, hemi-vertebrae, missing part of vertebrae,
+  hemivertebrae]
+http://purl.obolibrary.org/obo/HP_0002948: [fusion of the vertebral bodies]
+http://purl.obolibrary.org/obo/HP_0000891: [cervical rib, cervical ribs]
+http://purl.obolibrary.org/obo/HP_0003298: [closed spinal bifida, hidden spina bifida, cryptomerorrhachischis, occult spina bifida,
+  cryptomérorachischisis, 潜在性二分脊椎, spina bifida occulta]
+http://purl.obolibrary.org/obo/HP_0100007: [peripheral nerve tumors]
+http://purl.obolibrary.org/obo/HP_0100274: [gustatory lacrimation]
+http://purl.obolibrary.org/obo/HP_0003664: [mild condition much later in life]
+http://purl.obolibrary.org/obo/HP_0004149: [juvenile lethality]
+http://purl.obolibrary.org/obo/HP_0001319: [hypotonia of infancy]
+http://purl.obolibrary.org/obo/HP_0009733: [gliomas]
+http://purl.obolibrary.org/obo/HP_0011342: [mild to moderate global developmental delay]
+http://purl.obolibrary.org/obo/HP_0011343: [moderate global developmental delay]
+http://purl.obolibrary.org/obo/HP_0000403: [frequent ear infections]
+http://purl.obolibrary.org/obo/HP_0000490: [deep-set eyes]
+http://purl.obolibrary.org/obo/HP_0008619: [bilateral sensorineural hearing loss]
+http://purl.obolibrary.org/obo/HP_0000073: [duplication of the ureters]
+http://purl.obolibrary.org/obo/HP_0005580: [bifid renal pelvices]
+http://purl.obolibrary.org/obo/HP_0003830: [reduced penetrance]
+http://purl.obolibrary.org/obo/HP_0001372: [joint contractures]
+http://purl.obolibrary.org/obo/HP_0001390: [congenital arthromyodysplasias, arthrogryposes, 'syndrome, guerin-stern',
+  guerin stern syndrome, 'arthromyodysplasia, congenital', guerin-stern syndrome,
+  congen arthromyodysplasia, arthromyodysplasia congen, amyoplasia congenita, myodystrophia fetalis deformans,
+  amyoplasia congen, 'arthromyodysplasias, congenital', congenital arthromyodysplasia,
+  'arthrogryposes, congenital multiple', congenital multiple arthrogryposes, artrogriposis,
+  artrogripose, arthrogrypose, artrogriposi, 関節拘縮, arthrogryposis]
+http://purl.obolibrary.org/obo/HP_0001188: [tightly clenched fists]
+http://purl.obolibrary.org/obo/HP_0001193: [ulnar deviation]
+http://purl.obolibrary.org/obo/HP_0010563: [flexion deformity of one or more digits, flexed digits, flexed toes,
+  flexed fingers, permanent flexion of the finger or toe, camptodactyly]
+http://purl.obolibrary.org/obo/HP_0005656: [positional foot deformities]
+http://purl.obolibrary.org/obo/HP_0001371: [contractures]
+http://purl.obolibrary.org/obo/HP_0002012: [visceral anomalies]
+http://purl.obolibrary.org/obo/HP_0000171: [hypoglossia, hypoplastic tongue, rudimentary tongue, hypoplasia of the tongue,
+  underdevelopment of the tongue, microglossia, lingual hypoplasia, decreased size of tongue,
+  decreased tongue size, reduced tongue size, tongue hypoplasia, small tongue]
+http://purl.obolibrary.org/obo/HP_0000211: [risus sardonicus, spasm temporomandibular, lockjaw, lock jaw, 開口障害, limited mandibular mobility,
+  decrease in mandibular opening, limited jaw movement, limited mouth opening, decrease in mandibular movement,
+  decrease in jaw mobility, decrease in mandibular mobility, decrease in jaw movement,
+  decrease in jaw opening, limited jaw opening, pain of muscles of mastication, limited jaw mobility,
+  limited mandibular opening, spasmus masticatorius, masticatory spasm, trismus]
+http://purl.obolibrary.org/obo/HP_0000508: [zeldzame stoornis met ptose, 'droopiness ', ptose de la paupiere, drooping upper eyelid,
+  drooping eyelids, drooping eye lids, drooping eyelid, ptose, ptosi, 眼瞼下垂症, 眼瞼下垂,
+  ptosis]
+http://purl.obolibrary.org/obo/HP_0000286: [epicanthal folds]
+http://purl.obolibrary.org/obo/HP_0000563: [conical cornea, ktcn, cone-shaped profusion of cornea, bulging cornea,
+  円錐角膜, keratoconus]
+http://purl.obolibrary.org/obo/HP_0001155: [unique hand position]
+http://purl.obolibrary.org/obo/HP_0001166: [long fingers, achromachia, spider fingers, long slender fingers, 'long,
+    slender fingers', spider slender fingers, くも指症, spider deformity, spider finger,
+  arachnodactylia, arachnodactyly]
+http://purl.obolibrary.org/obo/HP_0006540: [congenital lung cyst]
+http://purl.obolibrary.org/obo/HP_0005948: [lung cyst]
+http://purl.obolibrary.org/obo/HP_0008680: [severe renal dysgenesis]
+http://purl.obolibrary.org/obo/HP_0002009: [potter's facies, potter facies]
+http://purl.obolibrary.org/obo/HP_0001432: [died soon after birth]
+http://purl.obolibrary.org/obo/HP_0002107: [collapsed lung, atelectasis, pulmonary atelectasis, pulmonary collapse,
+  aerothorax, 気胸症, 気胸, pneumothorax]
+http://purl.obolibrary.org/obo/HP_0002088: [immature development of the lungs]
+http://purl.obolibrary.org/obo/HP_0001257: [spastic, hypertonia, increased muscle tone, hypertonicity, 'involuntary
+    muscle stiffness, contraction, or spasm', muscle hypertonia, muscle hypertonicity,
+  muscle hypertonus, 痙直, 痙縮, spasticity]
+http://purl.obolibrary.org/obo/HP_0100021: [spastic diplegia, cerebral spastic infantile paralysis, little's disease,
+  cerebral paralysis, cp, imoc (infirmité motrice d'origine cérébrale), infirmité motrice cérébrale,
+  cerebral palsied, syndrome de little, infirmité motrice d'origine cérébrale, imc (infirmité motrice cérébrale),
+  paralysie cérébrale, paralisia cerebral, 脳性麻ひ, palsy cerebral, 脳性麻痺, ｃｐ, 脳性まひ, cerebral palsy]
+http://purl.obolibrary.org/obo/HP_0002059: [degeneration of cerebrum, cortical atrophy, supratentorial atrophy, brain atrophy,
+  atrophie corticale, atrophie cérébrale, 大脳萎縮, encephalatrophy, 脳萎縮, 脳委縮症, 脳の萎縮,
+  cerebral atrophy]
+http://purl.obolibrary.org/obo/HP_0000374: [sensorineural deafness]
+http://purl.obolibrary.org/obo/HP_0000143: [recto-vaginal fistula, abnormal connection between rectum and vagina,
+  rectovaginal fistula]
+http://purl.obolibrary.org/obo/HP_0009778: [hypoplastic thumb]
+http://purl.obolibrary.org/obo/HP_0001144: [orbital haemangiomatous cysts]
+http://purl.obolibrary.org/obo/HP_0001442: [germline mosaicism]
+http://purl.obolibrary.org/obo/HP_0000159: ['involvement of the palate, gums, and lips']
+http://purl.obolibrary.org/obo/HP_0000174: [involvement of the palate]
+http://purl.obolibrary.org/obo/HP_0002814: [involvement of the lower limbs]
+http://purl.obolibrary.org/obo/HP_0100010: [spinal meningiomas]
+http://purl.obolibrary.org/obo/HP_0005819: [shortening or missing of the middle phalanges]
+http://purl.obolibrary.org/obo/HP_0000086: [異所性腎, ectopia renis, 変位じん, renal ectopy, ectopic kidney, renal ectopia]
+http://purl.obolibrary.org/obo/HP_0100020: [posterior capsular cataract]
+http://purl.obolibrary.org/obo/HP_0009831: [axonal mononeuropathy multiplex]
+http://purl.obolibrary.org/obo/HP_0000764: [degeneration of axons]
+http://purl.obolibrary.org/obo/HP_0003660: [prenatally diagnosed cases]
+http://purl.obolibrary.org/obo/HP_0002828: [multiple joint contractures]
+http://purl.obolibrary.org/obo/HP_0004721: [renal adysplasia]
+http://purl.obolibrary.org/obo/HP_0007170: [echolalia, defect speech (nos), dysphasia, disorder speech, stammering,
+  speech loss, repetitive speech, stuttering, tongue tie, slurred speech, speech impediment or impairment,
+  speech impediment, speech impairment, neurological speech impairment, speech disorder]
+http://purl.obolibrary.org/obo/HP_0000733: [stereotyped jerky movements]
+http://purl.obolibrary.org/obo/HP_0000715: [behavioral profile]
+http://purl.obolibrary.org/obo/HP_0007270: [atypical absences]
+http://purl.obolibrary.org/obo/HP_0002069: [grand mal seizures, tonic-clonic convulsion, generalized clonic-tonic seizures,
+  'seizures, tonic-clonic', tonic-clonic convulsions, generalized tonic clonic seizures,
+  'seizures, generalized tonic-clonic', 'seizures, generalized, tonic-clonic', crises épileptiques tonico-cloniques,
+  強直性間代性痙攣発作, 強直間代痙攣, tonic-clonic seizures]
+http://purl.obolibrary.org/obo/HP_0001945: [febrile reaction, reaction febrile, hyperthermia, heat production increased,
+  temperature elevation, hyperpyrexia, pyrexia, fièvre, febrile response, 熱, febrile,
+  hyperthermie, état fébrile, fébrile, rise in body temperature, 熱性症状, 発熱状態, febrile symptom,
+  熱症状, febrile state, 発熱, elevation of body temperature, 発熱症状, 体温上昇, fever]
+http://purl.obolibrary.org/obo/HP_0008657: [ovarian calcification]
+http://purl.obolibrary.org/obo/HP_0010617: [fibroma of heart, cardiac fibrous hamartoma, heart fibroelastic hamartoma,
+  heart fibroma, heart fibrous hamartoma, cardiac fibroelastic hamartoma, fibroelastic hamartoma of heart,
+  fibroelastic hamartoma of the heart, cardiac fibroma]
+http://purl.obolibrary.org/obo/HP_0000394: [lop-ear deformity]
+http://purl.obolibrary.org/obo/HP_0100272: [branchial cleft sinus tracts]
+http://purl.obolibrary.org/obo/HP_0000242: [biparietal bossing]
+http://purl.obolibrary.org/obo/HP_0000494: [antimongoloid slanted palpebral fissures, antimongoloid eye slant, downward-slanting palpebral fissures,
+  downslanting palpebral fissures, down-slanted palpebral fissures, antimongoloid slant of palpebral fissures,
+  palpebral fissures down-slanted, down-slanting palpebral fissure, downward slanted palpebral fissures,
+  down slanting palpebral fissures, down-slanting palpebral fissures, downslanting palpebral fissure,
+  downward slanting of the opening between the eyelids, downslanted palpebral fissures,
+  downward slanting palpebral fissures]
+http://purl.obolibrary.org/obo/HP_0000767: [funnel chest, pectus excavatus, cobbler's chest, sunken chest, thorax en entonnoir congénital,
+  pectus excavatum]
+http://purl.obolibrary.org/obo/HP_0006446: [patellar dysplasia]
+http://purl.obolibrary.org/obo/HP_0000889: [abnormal clavicular shape]
+http://purl.obolibrary.org/obo/HP_0010034: [shortness principally affecting the second and fifth phalanges and first metacarpal]
+http://purl.obolibrary.org/obo/HP_0003067: [bilateral madelung deformity]
+http://purl.obolibrary.org/obo/HP_0009590: [unilateral vestibular schwannoma]
+http://purl.obolibrary.org/obo/HP_0002258: [microbrachycephaly]
+http://purl.obolibrary.org/obo/HP_0009911: [temporal bone findings]
+http://purl.obolibrary.org/obo/HP_0008586: [cochlear hypoplasia]
+http://purl.obolibrary.org/obo/HP_0004458: [bulbous internal auditory canals]
+http://purl.obolibrary.org/obo/HP_0001627: [cardiac anomalies]
+http://purl.obolibrary.org/obo/HP_0001660: [tac, common arterial trunk, common aorticopulmonary trunk, tronco arterioso,
+  tronco aórtico-pulmonar común, tronco arterial común, tronc artériel commun, gemeenschappelijke aortico-pulmonale stam,
+  gemeenschappelijke arteriële stam, common aortico-pulmonary trunk, malformação do tronco arterial,
+  tronco arterioso comune, persistent truncus arteriosis, single outflow tract, pta,
+  truncus arteriosis, 総動脈幹, truncus arteriosus]
+http://purl.obolibrary.org/obo/HP_0005134: [pulmonary atresia, absent pulmonary artery, absent lung artery, missing pulmonary artery,
+  pulmonary artery atresia, congenital atresia of the pulmonary valve, pulmonary valve atresia]
+http://purl.obolibrary.org/obo/HP_0004305: [flexor spasms]
+http://purl.obolibrary.org/obo/HP_0011097: [salaam seizures, salaam convulsions, epileptic spasms]
+http://purl.obolibrary.org/obo/HP_0010819: [crises épileptiques atoniques, astatic seizures, drop seizures, drop attacks,
+  hypotonic seizures, atonic seizures]
+http://purl.obolibrary.org/obo/HP_0002391: ['spasms, infantile', infantile spasm, 乳児痙攣, infantile convulsion, infantile spasms]
+http://purl.obolibrary.org/obo/HP_0001255: [精神運動制止, psychomotor impairment, motormental retardation, psychomotor slowing,
+  pschomotor retardation, psychomotor retardation]
+http://purl.obolibrary.org/obo/HP_0002283: [diffuse atrophy of the brain]
+http://purl.obolibrary.org/obo/HP_0002070: [ataxic or hypermotoric limb movements]
+http://purl.obolibrary.org/obo/HP_0000256: [large head]
+http://purl.obolibrary.org/obo/HP_0000284: [ocular abnormalities]
+http://purl.obolibrary.org/obo/HP_0002808: [cyphose, round back, gibbus deformity, hunched back, hunchback, humpback,
+  後弯変形, cyrtosis, 後弯, 脊柱後弯症, backward curvature, 後彎変形, 後彎, 脊柱後彎, 後わん, 脊柱後弯, kyphotic deformity,
+  円背, kyphosis]
+http://purl.obolibrary.org/obo/HP_0002540: [never walked]
+http://purl.obolibrary.org/obo/HP_0001759: [ossicular anomalies]
+http://purl.obolibrary.org/obo/HP_0000568: [microphthalmos, nanophthalmia, nanophthalmos, simple microphthalmos,
+  decreased eye size, small eyes, microphthalamos, abnormally small eyeball, decreased size of globe of eye,
+  abnormally small globe of eye, decreased size of eyeball, eye decreased size, microphthalmus,
+  microphthalmia]
+http://purl.obolibrary.org/obo/HP_0004348: [abnormal calcifications]
+http://purl.obolibrary.org/obo/HP_0011462: [adolescent, heranwachsend, adolescentie, adolescente, youth, teen-age,
+  jeunesse, teenage, adolescence]
+http://purl.obolibrary.org/obo/HP_0004308: [arrhythmia ventricular (nos), arrhythmia ventricular, ventricular dysrhythmia,
+  trouble du rythme ventriculaire, arythmie ventriculaire, ventricular arrhythmia]
+http://purl.obolibrary.org/obo/HP_0008606: [bilateral supra-auricular sinuses]
+http://purl.obolibrary.org/obo/HP_0000577: [divergent strabismus, divergent concomitant strabismus, outward facing eye ball,
+  外斜視, external squint, excyclotropia, divergent squint, exodeviation, exotropia]
+http://purl.obolibrary.org/obo/HP_0006477: [cystic mass in the left posterior alveolar ridge]
+http://purl.obolibrary.org/obo/HP_0009921: [duane retraction syndrome, duane's syndrome, durs, drs, duane syndrome]
+http://purl.obolibrary.org/obo/HP_0006106: [trapeze aplasia]
+http://purl.obolibrary.org/obo/HP_0001367: ['articular, and auditory manifestations']
+http://purl.obolibrary.org/obo/HP_0000545: [short-sightedness, near-sightedness, near vision, close sighted, near sightedness,
+  near sighted, nearsightedness, nearsightednesses, short sight, near sight, shortsightedness,
+  myopic, nearsighted, short-sight, 近視眼, 近眼, 近視, near-sight, myopia]
+http://purl.obolibrary.org/obo/HP_0007773: [vitreous anomaly]
+http://purl.obolibrary.org/obo/HP_0000272: [flat facies, flat facial shape, flat facial profile, flattened face,
+  flat face]
+http://purl.obolibrary.org/obo/HP_0100568: [endocrine neoplasia]
+http://purl.obolibrary.org/obo/HP_0011355: [skin lesions]
+http://purl.obolibrary.org/obo/HP_0009720: [facial angiofibromas]
+http://purl.obolibrary.org/obo/HP_0010615: [angiofibroma, angiofibromas]
+http://purl.obolibrary.org/obo/HP_0001012: [lipomas]
+http://purl.obolibrary.org/obo/HP_0007449: [hypopigmented macule, confetti-like hypopigmented macules]
+http://purl.obolibrary.org/obo/HP_0000168: [gingival papules]
+http://purl.obolibrary.org/obo/HP_0000843: [elevated blood parathyroid hormone level, increased activity of parathyroid,
+  hpt, hyperparathyreosis, 上皮小体機能亢進症, parathyroid hyperfunction, 上皮小体亢進, 副甲状腺機能亢進症,
+  hyperparathyreoidismus, 上皮小体亢進症, hyperparathyroidism]
+http://purl.obolibrary.org/obo/HP_0100258: [preaxial polydatyly]
+http://purl.obolibrary.org/obo/HP_0002211: [poliosis of anterior hair, poliosis of forelock hair, white part of hair above forehead,
+  white forelock]
+http://purl.obolibrary.org/obo/HP_0001107: [oca, oculocutaan albinisme, 'albinismus, okulokutaner', albinisme oculo-cutané,
+  aoc, albinismo oculo-cutáneo, oculocutaneous albinism]
+http://purl.obolibrary.org/obo/HP_0007106: [severe to profound global developmental delay]
+http://purl.obolibrary.org/obo/HP_0005484: [postnatal-onset microcephaly]
+http://purl.obolibrary.org/obo/HP_0001347: [increased deep tendon reflexes, increased reflexes, hrx, hyperreflexia]
+http://purl.obolibrary.org/obo/HP_0002487: [hyperkinesia, muscle spasms, muscle spasm, excessive movement, overactive,
+  motor activity exaggerated, increased activity, hyperactivity, behaviour hyperactive,
+  overactivity, behavior hyperactive, activity motor exaggerated, 多動, hyperactive,
+  hyperkinesis]
+http://purl.obolibrary.org/obo/HP_0007757: [choroidal pigment hypoplasia]
+http://purl.obolibrary.org/obo/HP_0009372: [brachydactyly type a2 (bda2)]
+http://purl.obolibrary.org/obo/HP_0001562: [low levels of amniotic fluid, oligoamnios, hypamnion, oligamnios, hypamnios,
+  reduced amniotic fluid, oligohydramnion, oligoamnion, 羊水過少症, oligohydramnios]
+http://purl.obolibrary.org/obo/HP_0008678: [nierenhypoplasie, renale hypoplasie, hypoplasie rénale, hipoplasia renal,
+  hypoplastic kidney, kidney hypoplasia, hypoplastic kidneys, underdeveloped kidneys,
+  small kidneys, ipoplasia renale, 腎低形成, renal hypoplasia]
+http://purl.obolibrary.org/obo/HP_0003811: [died neonatally]
+http://purl.obolibrary.org/obo/HP_0002089: [lung hypoplasia, hypoplastic lung, hypoplastic lungs, small lung, underdeveloped lung,
+  decreased lung size, 肺形成不全, 形成不全肺, hypoplasia of lung, aplasia of lung, pulmonary hypoplasia]
+http://purl.obolibrary.org/obo/HP_0000375: ['immaturity of the middle ear cleft, ossicles, facial nerve and canal,
+    and cochlear nerve']
+http://purl.obolibrary.org/obo/HP_0000717: [autistic disorder of childhood onset, kanner's syndrome, 'disorder, autistic',
+  autistic disorder of childhood onset (disorder), infantile psychosis (disorder),
+  kanners syndrome, 'syndrome, kanner''s', autistic disorder, 'disorders, autistic',
+  kanner syndrome, asd, auts1, 自閉, 自閉性障害, 自閉症, autism]
+http://purl.obolibrary.org/obo/HP_0001056: [milie]
+http://purl.obolibrary.org/obo/HP_0000277: [bilateral mandibular coronoid processes hyperplasia]
+http://purl.obolibrary.org/obo/HP_0001841: [radial-side polydactyly, 'polydactyly, preaxial', preaxial polydactyly]
+http://purl.obolibrary.org/obo/HP_0001199: [triphalangeal thumbs]
+http://purl.obolibrary.org/obo/HP_0000241: [poor postnatal head growth]
+http://purl.obolibrary.org/obo/HP_0008872: [neonatal feeding difficulties]
+http://purl.obolibrary.org/obo/HP_0002022: [feeding problems, poor feeding, feeding poor, feeding difficulties]
+http://purl.obolibrary.org/obo/HP_0002463: [absent language]
+http://purl.obolibrary.org/obo/HP_0100279: [colitis ulcerative, ulcerative calcitis, colitis ulcerative aggravated,
+  autoimmune inflammatory bowel disease, ulceratve colitis unspcf, 'colitis, ulcerative',
+  left-sided ulcerative (chronic) colitis, uc, 潰瘍性大腸炎, colitis ulcerosa, ulcerative colitis]
+http://purl.obolibrary.org/obo/HP_0002255: [blood stools]
+http://purl.obolibrary.org/obo/HP_0004295: [edematous and spotty bleeding mucosa]
+http://purl.obolibrary.org/obo/HP_0000729: [pervasive developmental delay]
+http://purl.obolibrary.org/obo/HP_0001256: [mild and nonprogressive mental retardation, 'mental retardation, borderline-mild',
+  'intellectual disability, mild', moronity, 軽度精神遅滞, mild mental retardation]
+http://purl.obolibrary.org/obo/HP_0006461: [coxa-epiphysiolysis]
+http://purl.obolibrary.org/obo/HP_0009370: ['type a brachydactylia,']
+http://purl.obolibrary.org/obo/HP_0003590: [appears during adolescence]
+http://purl.obolibrary.org/obo/HP_0200040: [horn cyst, follicular infundibular cyst, inclusion cyst, squamous cyst,
+  epidermal cyst, epidermoid cyst, keratinous cyst, epithelial cyst, keratinizing cyst,
+  infundibular cyst, epidermal inclusion cyst, keratin cyst, epidermoid cysts]
+http://purl.obolibrary.org/obo/HP_0010605: [chalazia]
+http://purl.obolibrary.org/obo/HP_0000137: [fibrosarcoma of ovary, fibrosarcoma of the ovary, ovarian fibrosarcoma]
+http://purl.obolibrary.org/obo/HP_0100244: [fibrous tissue neoplasm, fibrocytic tumor, malignant fibromatous neoplasm,
+  fibrosarkom, fibrosarcoom, fibrosarcome, 纤维肉瘤, 纤维瘤, 纤维组织肿瘤, 软组织纤维肉瘤, increased fibroblastic sarcoma incidence,
+  fibrossarcoma, 繊維肉腫, 線維肉腫, fibrosarcoma]
+http://purl.obolibrary.org/obo/HP_0009730: [myoma striocellulare, 横紋筋腫, rhabdomyoma]
+http://purl.obolibrary.org/obo/HP_0001288: [gait rigid, gait abnormal, gait broadened, walking difficulty, festinating gait,
+  dysbasia, gait festinating, gait tripping, disorder gait, gait stumbling, gait disturbance,
+  gait unsteady, stumbling, staggering, gait shuffling, gait disorder, peculiar gait,
+  abnormal ambulation, gait abnormalities, gait difficulties, gait disturbances, abnormal walk,
+  impaired gait, abnormal gait]
+http://purl.obolibrary.org/obo/HP_0000525: [iris pigment epithelial cyst]
+http://purl.obolibrary.org/obo/HP_0008051: [retina pigment epithelium]
+http://purl.obolibrary.org/obo/HP_0000521: [lacrimal sac fistula]
+http://purl.obolibrary.org/obo/HP_0009465: [ulnar deviation of fingers]
+http://purl.obolibrary.org/obo/HP_0006096: [contractures of both hands]
+http://purl.obolibrary.org/obo/HP_0001776: [bilateral clubfeet]
+http://purl.obolibrary.org/obo/HP_0001216: [delayed carpal ossification]
+http://purl.obolibrary.org/obo/HP_0003079: [radiosensitive response]
+http://purl.obolibrary.org/obo/HP_0010766: [ectopic calcinosis, heterotopic calcification, 異所性石灰化, ectopic calcification]
+http://purl.obolibrary.org/obo/HP_0001545: [anteriorly displaced anus, anus anteposition, anteriorly placed anus]
+http://purl.obolibrary.org/obo/HP_0000413: [atretic ear canals]
+http://purl.obolibrary.org/obo/HP_0000347: [mandibular hypoplasia]
+http://purl.obolibrary.org/obo/HP_0011380: [anomalies of the semicircular canals]
+http://purl.obolibrary.org/obo/HP_0011453: [anomalies of the semicircular canals and the incus]
+http://purl.obolibrary.org/obo/HP_0005473: [inculomalleolar fusion]
+http://purl.obolibrary.org/obo/HP_0002574: [episodes of abdominal pain]
+http://purl.obolibrary.org/obo/HP_0000969: [lumbar cushion, swelling non-inflammatory, tissue puffing, swelling,
+  inflammatory swelling, body water excess, hydrothorax, hydrops, dropsy, hydropericardium,
+  anasarca, 浮腫, fluid retention, water retention, problème d'oedème, pb d'oedème,
+  oedeme, oedème, むくみ, 水腫, edema]
+http://purl.obolibrary.org/obo/HP_0009944: [bifid right thumb]
+http://purl.obolibrary.org/obo/HP_0010511: [large toes]
+http://purl.obolibrary.org/obo/HP_0000369: [melotia, lowset ears, low-set ears, lowered ear position, protruding ears,
+  耳介低位, low set ears]
+http://purl.obolibrary.org/obo/HP_0000308: [retromicrognathia, small retruded chin, microretrognathia]
+http://purl.obolibrary.org/obo/HP_0000177: [abnormality of upper lip, abnormal upper lip]
+http://purl.obolibrary.org/obo/HP_0000366: [malformed nose]
+http://purl.obolibrary.org/obo/HP_0000431: [broad bridge]
+http://purl.obolibrary.org/obo/HP_0000437: [flattened tip]
+http://purl.obolibrary.org/obo/HP_0004464: [linear skin lesions behind the ears]
+http://purl.obolibrary.org/obo/HP_0001417: [x-linked, x-linked inheritance]
+http://purl.obolibrary.org/obo/HP_0000589: [coloboinowlma of eye, coloboinowlma of macula, congenital ocular coloboinowlma,
+  notched pupil, 眼欠損症, coloboma]
+http://purl.obolibrary.org/obo/HP_0000156: [highly arched plate]
+http://purl.obolibrary.org/obo/HP_0000164: [dental anomalies]
+http://purl.obolibrary.org/obo/HP_0001965: [cysts of the scalp]
+http://purl.obolibrary.org/obo/HP_0001272: [unilateral cerebellar atrophy]
+http://purl.obolibrary.org/obo/HP_0100011: [intrascleral schwannoma]
+http://purl.obolibrary.org/obo/HP_0000081: [malformations of the kidney or collecting system including duplication]
+http://purl.obolibrary.org/obo/HP_0001595: [ectodermal (dental and hair) anomalies]
+http://purl.obolibrary.org/obo/HP_0003246: [prominent perineal raphe]
+http://purl.obolibrary.org/obo/HP_0004792: [recto-perineal fistula, recto-peritoneal fistula, rectoperitoneal fistula,
+  rectoperineal fistula]
+http://purl.obolibrary.org/obo/HP_0001157: [curvature of digit, permanent curving of the finger, bent digits, 弯曲指症,
+  clinodactylia, streblodactylia, streblodactyly, clinodactyly]
+http://purl.obolibrary.org/obo/HP_0000079: [urorenal anomalies]
+http://purl.obolibrary.org/obo/HP_0002034: [anorectal malformations]
+http://purl.obolibrary.org/obo/HP_0003416: [narrow spinal canal, spinal canal stenosis, spinal stenosis]
+http://purl.obolibrary.org/obo/HP_0003815: [marked variability in the severity and nature of manifestations]
+http://purl.obolibrary.org/obo/HP_0001171: [lobster claw hand, cleft hand, split-hand/foot malformation, fewer digits,
+  split hand-foot malformation, split-hand deformity, shfm, split hand foot malformation,
+  lobster-claw deformity, ectrodactyly]
+http://purl.obolibrary.org/obo/HP_0005912: [atresia of bile duct, atresia of bile ducts, isolated atresia of bile ducts,
+  malformation biliary, atresia biliary, bile ducts absence of (congenital), gallengangatresie,
+  'gallengangatresie, nicht-syndromale', atresie der gallengänge, atrésie des voies biliaires isolée,
+  atresia biliar, atresia biliar no sindrómica, atresia de vías biliares, galatresie,
+  galgangatresie, niet-syndromale biliaire atresie, biliary duct atresia, 胆道閉鎖症, 胆道閉鎖,
+  biliary obstruction, biliary atresia]
+http://purl.obolibrary.org/obo/HP_0007352: [calcification of the falx cerebri and tentorium cerebelli]
+http://purl.obolibrary.org/obo/HP_0006996: [dysgenesis of the corpus callosum]
+http://purl.obolibrary.org/obo/HP_0002195: [dysgenesis of the corpus callosum and vermis]
